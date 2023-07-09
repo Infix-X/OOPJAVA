@@ -1,0 +1,445 @@
+1) How to reverse a string in Java?
+
+Any technical interview is not complete without a question on recursive concept. This question is one of them. You have to write a Java program to reverse a given string using recursive method. [Solution]
+
+2) How to create a pyramid of numbers in Java?
+
+This is one of the Java logical programs asked in interview. Write a Java program to create a pyramid of numbers or any other symbols in pyramid patterns. [Solution]
+
+
+3) How do you remove all white spaces from a string in Java?
+
+The bundle of Java programming interview questions is incomplete without the questions on strings. You will face many questions on string handling in your interview. I have listed some of them in this post. It is one of them. [Solution]
+
+4) How to find duplicate characters in a string in Java?
+
+Write a Java program to find duplicate characters and their count in a given string. For example, in a string “Better Butter”, duplicate characters and their count is t : 4, e : 3, r : 2 and B : 2. [Solution]
+
+5) How do you check the equality of two arrays in Java?
+
+One more favorite topic of many interviewers is array. You will face many Java coding interview questions related to array. In this program, you will learn how to check the equality of two arrays using different methods. [Solution]
+
+6) Anagram program in Java
+
+Write a Java program to check whether two given strings are anagram or not. Two strings are said to be anagram if they contain same set of characters but in different order. For example, “Mother In Law” and “Hitler Woman” are anagrams. This type of Java programming questions test the coding skills of a candidate. [Solution]
+
+7) Armstrong number program in Java
+
+Write a Java program to check whether a given number is Armstrong number or not. A number is called an Armstrong number if it is equal to sum of its digits each raised to the power of number of digits in it. For example: 153, 9474, 54748 are some Armstrong numbers. In Java interview coding questions like this, an interviewer mainly check how do you implement logic in you code.  [Solution]
+
+
+8) How to find duplicate elements in an array?
+
+I think array related programs along with string handling programs are the most asked Java programs in interview. In this program, I have discussed five methods to find duplicate elements in the given array. [Solution]
+
+9) How to find sum of all digits of a number in Java?
+
+Write a Java program to find sum of all digits of a given number. [Solution]
+
+10) How to find second largest number in an integer array?
+
+Write a Java program to find second largest number in an array of numbers. [Solution]
+
+11) How to perform matrix operations in Java?
+
+Write a Java program to perform matrix operations like matrix addition, matrix subtraction, matrix multiplication and transpose of a matrix. This program is one of the matrix related Java programs asked in interview. [Solution]
+
+12) How to count occurrences of each character in a string in Java?
+
+Write a Java program to count the number of occurrences of each character in a given string. For example, If “Java J2EE Java JSP J2EE” is the given string then occurrences of each character in this string is E=4, 2=2, v=2,  =4, P=1, S=1, a=4, J=5. [Solution]
+
+13) How to find largest number less than a given number and without a given digit?
+
+Write a Java program to find the largest number ‘L’ less than a given number ‘N’ which should not contain a given digit ‘D’. For example, If 145 is the given number and 4 is the given digit, then you should find the largest number less than 145 such that it should not contain 4 in it. In this case, 139 will be the answer. This program is one of the logical programs in Java. [Solution]
+
+14) How to find all pairs of elements in an array whose sum is equal to given number?
+
+Write a Java program to find all pairs of elements in the given array whose sum is equal to a given number. For example, if {4, 5, 7, 11, 9, 13, 8, 12} is an array and 20 is the given number, then you have to find all pairs of elements in this array whose sum must be 20. In this example, (9, 11), (7, 13) and (8, 12) are such pairs whose sum is 20. [Solution]
+
+15) How to find continuous sub array whose sum is equal to given number?
+
+Write a Java program to find continuous sub array of the given array whose sum is equal to a given number. For example, If {12, 5, 31, 9, 21, 8} is the given array and 45 is the given number, then you have to find continuous sub array in this array such that whose elements add up to 45. In this case, {5, 31, 9} is such sub array whose elements add up to 45. [Solution]
+
+16) How to remove duplicate elements from ArrayList in Java?
+
+Write a Java program to remove duplicate elements from already constructed ArrayList. This program is one of the collection interview programs in Java. [Solution]
+
+17) How to check whether given number is binary or not?
+
+Write a Java program to check whether given number is binary or not. A binary number is a number which contains only 0 or 1. For example : 101101, 110010110, 10010011 are binary numbers. This program is one of the number related basic Java programs for interview. [Solution]
+
+18) How to check whether one string is a rotation of another in Java?
+
+Write a Java program to check whether one string is a rotation of another. For example, If “JavaJ2eeStrutsHibernate” is a string then some rotated versions of this string are “StrutsHibernateJavaJ2ee”, “J2eeStrutsHibernateJava“, “HibernateJavaJ2eeStruts“. [Solution]
+
+19) How to find intersection of two arrays in Java?
+
+Write a Java program to find intersection of two arrays or common elements between the two arrays. [Solution]
+
+20) How to check whether user input is number or not in Java?
+
+Write a Java program to check whether user has entered a number or not. [Solution]
+
+21) How to find trigonometric values of an angle in Java?
+
+Write a Java program to find trigonometric values like sin, cos, tan, sec, cosec and cot of an angle. This program is one of the mathematics related Java practice programs. [Solution]
+
+22) How to reverse each word of a string in Java?
+
+Write a Java program to reverse each word of a given string. For example, If “Java Concept Of The Day” is input string then output should be “avaJ tpecnoC fO ehT yaD”. [Solution]
+
+23) How to separate zeros from non-zeros in an array?
+
+Write a Java program to separate zeros from non-zeros in the given array. You have to move zeros either to end of the array or bring them to beginning of the array. For example, if {14, 0, 5, 2, 0, 3, 0} is the given array, then moving zeros to end of the array will result {14, 5, 2, 3, 0, 0, 0} and bringing zeros to front will result {0, 0, 0, 14, 5, 2, 3}.  [Solution]
+
+24) Decimal To Binary, Decimal To Octal And Decimal To HexaDecimal In Java
+
+Write a Java program to convert decimal to binary, decimal to octal and decimal to hexadecimal. Number conversion programs are very common Java interview programming questions for freshers. [Solution]
+
+25) How to find all the leaders in an integer array in Java?
+
+Write a Java program to find all the leaders in an integer array. An element is said to be a leader if all the elements on it’s right side are smaller than it. Rightmost element is always a leader. For example, if {14, 9, 11, 7, 8, 5, 3} is the given array then {14, 11, 8, 5, 3} are the leaders in this array. [Solution]
+
+26) Reverse and add until you get a palindrome
+
+Write a Java program to take input number from the user, reverse it and add it to itself. If the sum is not a palindrome then repeat the procedure until you get a palindrome. [Solution]
+
+27) Selection sort in Java
+
+Write a Java program to implement selection sort. [Solution]
+
+28) Reverse the string with preserving the position of spaces
+
+Write a Java program to reverse a string with preserving the position of spaces. For example, if “I Am Not String” is the given string then the reverse of this string with preserving the position of spaces is “g ni rtS toNmAI”. [Solution]
+
+29) Roman equivalent of a decimal number
+
+Write a Java program to find roman equivalent of a decimal number. [Solution]
+
+30) percentage of uppercase, lowercase, digits and special characters in a string
+
+Write a Java program to find the percentage of uppercase letters, lowercase letters, digits and other special characters(including space) in the given string. [Solution]
+
+31) Launch external applications through Java code
+
+Write a Java program to launch external applications like notepad, MS Word etc. [Solution]
+
+32) Find missing number in an array
+
+If ‘n‘ is the positive number and ‘a‘ is an array of integers of length ‘n-1’ containing elements from 1 to n. Then find the missing number in ‘a’ in the range from 1 to n. Occurrence of each element is only once. For example, If n = 8, then array ‘a’ will have 7 elements in the range from 1 to 8. For example {1, 4, 5, 3, 7, 8, 6}. One number will be missing in ‘a’ (2 in this case). You have to find out that missing number. [Solution]
+
+33) String immutable program
+
+Write a Java program to prove strings are immutable in java. [Solution]
+
+34) Arrays.deepToString() method example. [Solution]
+
+35) 18 Java ArrayList Programming Examples.
+
+These programs are collections related Java coding questions. [Solution]
+
+36) 16 Java LinkedList Programming Examples.
+
+These programs are collections related Java coding questions. [Solution]
+
+37) Detection of deadlocked threads
+
+Write a Java program to detect the deadlocked threads. [Solution]
+
+38) Generate random numbers
+
+Write a Java program to generate random numbers. [Solution]
+
+39) Java PriorityQueue Example. [Solution]
+
+40) Java HashSet Example. [Solution]
+
+41) Java LinkedHashSet Example. [Solution]
+
+42) Java TreeSet Example. [Solution]
+
+43) How to sort a text file in Java?
+
+Write a Java program or function to sort a text file containing some records in single or multiple columns. Your program should take one text file containing some records as input, should sort the records on a particular column and write the sorted records in another text file. [Solution]
+
+44) Array to ArrayList and ArrayList To Array Conversion program. [Solution]
+
+45) How do you find longest substring without repeating characters in a string?
+
+Write a Java program or function to find the longest substring without repeating characters in a given string. For example, if “javaconceptoftheday” is the input string, then the longest substring without repeating or duplicate characters is “oftheday”. [Solution]
+
+46) How do you count occurrences of each element in an array?
+
+Write a Java program or function to count the occurrences of each element in an array. For example, if {12, 9, 12, 9, 10, 9, 10, 11} is the input array, then the count of occurrences of each element is {12:2, 9:3, 10:2, 11:1}. [Solution]
+
+47) Reverse an array.
+
+Write a Java program to reverse an array without using an additional array. That means your program should reverse the given array in place. For example, if {12, 9, 21, 17, 33, 7} is the input array, then your program should return {7, 33, 17, 21, 9, 12} as output. [Solution]
+
+48) Write a Java program to swap two string variables without using third or temp variable? [Solution]
+
+49) Finding the most repeated word in a text file.
+
+Write a Java program to find the most repeated word in text file. Your program should take one text file as input and find out the most repeated word in that file. [Solution]
+
+50) How do you stop a thread in Java? [Solution]
+
+51) Remove duplicate elements from an array.
+
+Write a Java program to remove duplicate elements from the given array. Your program or method should take an array of integers as input and should return another array which should contain only unique elements from the input array. For example, if {4, 3, 2, 4, 9, 2} is the input array then your program or method should return {4, 3, 2, 9} as output. [Solution]
+
+52) Write a Java program to append text to a file? [Solution]
+
+53) How do you synchronize ArrayList, HashSet and HashMap in Java? [Solution]
+
+54) Write a Java program to find number of characters, number of words and number of lines in a text file? [Solution]
+
+55) How do you convert HashMap to ArrayList in Java? [Solution]
+
+56) Write a Java program to sort an ArrayList? [Solution]
+
+57) All permutations of a string.
+
+Write a Java program to find all permutations of a string recursively. For example, all permutations of string “JSP“ are,
+
+JSP
+JPS
+SJP
+SPJ
+PJS
+PSJ
+
+Java interview programs
+[Solution]
+
+58) Check number belongs to Fibonacci series or not.
+
+Write a Java program to check whether given number belongs to Fibonacci series or not. For example, 34 belongs to Fibonacci series where as 51 doesn’t belongs to Fibonacci series. [Solution]
+
+59) 15 Java HashMap programming examples. [Solution]
+
+60) Write a Java program to print Floyd’s Triangle? [Solution]
+
+61) Finding The First Repeated And Non-Repeated Character In A String.
+
+Given a string, your code must find out the first repeated as well as non-repeated character in that string. For example, if “JavaConceptOfTheDay” is the given string, then ‘J’ is a first non-repeated character and ‘a’ is a first repeated character. [Solution]
+
+62) Spiral Matrix Program.
+
+Write a Java program to create spiral of numbers or spiral matrix or circular matrix of order n*n in both clockwise and anti-clockwise directions. Spiral matrix should be filled with the values from 1 to n*n. [Solution]
+
+63) String to Integer and Integer to String Conversion program. [Solution]
+
+64) Array Element Removal Programs.
+
+These Java interview programs contain,
+
+–>How to remove an element at specific index from an array?
+
+–>How to remove specific element from an array?
+
+–>How to remove multiple elements at different indices from an array?
+
+–>How to remove multiple specific elements from an array?
+
+–>How to remove all occurrences of an element in an array?
+
+These programs have been demonstrated using third party library org.apache.commons.lang3.ArrayUtils class. [Solutions]
+
+65) How to find type, total space, free space and usable space of all drives in Java?
+
+This is also one of Java coding interview question related to type and space of drives of a computer. In this post, you will learn how to list all drives of a computer, how to find type of a drive and how to find total space, free space and usable space of all drives using Java code. [Solution]
+
+66) Palindrome Programs In Java
+
+Palindrome programs are one of the most asked Java programming interview questions for freshers. In this article, you will learn to write palindrome program using 4 different methods. They are iterative method, recursive method, Palindrome program using StringBuffer and palindrome program using IntStream of Java 8. [Solution]
+
+67) Array Rotation Program In Java
+
+Array rotation means you need to rotate an array in left or right direction by ‘n’ positions. For example, if {1, 2, 3, 4, 5, 6, 7} is an input array then rotating this array in the left direction by two positions will give {3, 4, 5, 6, 7, 1, 2} and rotating in the right direction by two positions will give {6, 7, 1, 2, 3, 4, 5}. [Solution]
+
+68) Prime Number Programs In Java
+
+Prime number programs are one of the popular and regular Java programs asked in interview. In this post, you will find following prime number programs.
+
+->How to check whether given number is prime or not?
+
+->How to find initial 10 or 20 or 30 …… n prime numbers?
+
+->How to find out 20 (or 30 or 40 …… n) prime numbers after 100 ( or after any given number)?
+
+->How to find out all prime numbers between two given numbers?
+
+->How to find the sum of initial ‘n‘ prime numbers?
+
+->How to find sum of all prime numbers between two given numbers?
+
+->How to print prime numbers between two given numbers in the reverse order?
+
+->How to find the twin prime numbers?
+
+->How to print twin prime numbers between two given numbers?
+
+->How to find a prime number which comes after three non-prime numbers?
+
+[Solutions]
+
+69) How to make collection read-only in Java?
+
+In this article, you will learn how to make collection read-only in Java using unmodifiable wrapper methods of java.util.Collections. [Solution]
+
+70) How to reverse a sentence word by word in Java?
+
+Write a Java program to reverse a sentence word by word? For example, If “Java Concept Of The Day” is an input string then output will be “Day The Of Concept Java”. This type of Java interview coding questions are asked by the interviewer to test the coding skills of a candidate. [Solution]
+
+71) How to make text file read-only in Java?
+
+In this post, you will see 3 Java programs asked in interview related to file handling. They are – how to make text file read-only, how to check whether existing text file read-only or not and how to make read-only file writable again in Java. [Solutions]
+
+72) How to remove all vowels from a string in Java?
+
+Write a Java program to remove all vowels from a string. Your program should take input string from the user and remove all vowels from this string and print it without vowels. This type of Java coding questions are very popular in interview for freshers. [Solution]
+
+73) How to copy a text file in Java?
+
+Write a Java program to copy the contents of one text file to another text file. Your program should take two text files as input and copy the contents of source file to destination file. In this post, you will learn to copy a text file using I/O Stream, using Files.copy() method and using FileChannel class. This program is one of Java interview programming questions related to file handling. [Solution]
+
+74) How to find the most frequent element in an array in Java?
+
+Write a Java program to find the most frequent element in an array. In this article, you will learn to find the most frequent element and its frequency in an array of integers using HashMap. This type of Java logical programs related to array or strings are very common in interview for freshers. [Solution]
+
+75) Text File Modification Program
+
+How to modify a text file or How to replace specific string in a text file? It is one of the basic Java programs for interview related to I/O programming or file handling programming. [Solution]
+
+76) Harshad Number (Niven Number) Program
+
+Harshad number or niven number is a number which is divisible by the sum of its digits. For example, 21 is a Harshad number because 21 is divisible by the sum of its digits (2+1=3). An interviewer ask this type of logical programs in interview to test how do you implement logic in your code. [Solution]
+
+77) How to find saddle point of a matrix in Java?
+
+Saddle point of a matrix is an element in the matrix which is smallest in its row and largest in its column. For example,
+
+6    3    1
+9    7    8
+2    4    5
+
+In this matrix, 7 is the saddle point. Because it is the smallest in its row (2nd row) and largest in its column (2ndcolumn). [Solution]
+
+78) How to find union and intersection of multiple arrays in Java?
+
+You have seen union and intersection of two arrays. In this post, you will see union and intersection of multiple arrays. [Solution]
+
+79) How to read and write images in Java?
+
+An interviewer ask this type of Java interview programs to test basic file handling skills or I/O programming skills of a candidate. [Solution]
+
+80) How to compare two text files in Java?
+
+Your program should take two text files as input and compare their content line by line and find out whether they have same content or not. [Solution]
+
+81) Difference between two dates in Java
+
+Your program should take start date and end date from the user and find out the difference between these two dates in terms of years, days, hours, minutes and seconds. This is one of the commonly asked Java programming interview questions for freshers. [Solution]
+
+82) How to find frequency of all digits in a number in Java?
+
+Your program should take one number from the user and find out frequency of all digits in this number. This program is one of the core Java coding interview questions for freshers. [Solution]
+
+83) Symmetric Matrix Program In Java
+
+Symmetric matrix is a square matrix which is equal to its transpose. If A[][] is a square matrix with (M x M) order, then this matrix is said to be symmetric if every element at ith row and jth column is equal to element at jth row and ith column i.e A[i][j] == A[j][i]. Your program should take input matrix from the user, display it and check whether the matrix is symmetric or not. As I said earlier, an interviewer ask this type of Java programs in interview to check how do you implement logic in your code. [Solution]
+
+84) How to set file permissions in Java?
+
+In this program, you will learn to set different file permissions like read, write and execute using different methods of java.io.File class. [Solution]
+
+85) How to list all files in a directory in Java?
+
+This program is one of the file handling Java programs likely to be asked in interview. [Solution]
+
+86) How to format date in Java?
+
+In this program, you will learn how to format date using SimpleDateFormat class. [Solution]
+
+87) Pattern Programs In Java
+
+Java programs to print numbers or characters or any other symbols in different shapes or patterns are one of the frequently asked Java interview coding questions for freshers. Because, they test the logical ability as well as coding skills of a candidate. In this post, I have collected some different pattern programs asked in interview. I hope they will be helpful for you guys to prepare for interview. [Solution]
+
+88) How to reverse an ArrayList in Java? [Solution]
+
+89) Diamond Pattern Programs In Java. [Solution]
+
+90) How to zip files in Java? [Solution]
+
+91) How to unzip files in Java? [Solution]
+
+92) Magic number program in Java
+
+Write a Java program which checks whether given number is a magic number or not. Magic number is a number which gives sum exactly 1 when its digits are recursively added. [Solution]
+
+93) Array Triplets Java Program-1
+
+Write a Java program to find array triplets such that sum of first two elements equals the third element. [Solution]
+
+94) Array Triplets Java Program-2
+
+Write a Java program which finds triplets in the given array whose sum is equal to given number. [Solution]
+
+95) How to sort an array of 0s and 1s? [Solution]
+
+96) How to sort an array of 0s, 1s and 2s? [Solution]
+
+97) Contiguous sub arrays with given sum
+
+Write a Java program which prints all contiguous sub arrays with given sum. For example, if [5, -9, 4, -2, 7, 1, -4, -3, -7] is the given array and -7 is the given sum then contiguous sub arrays with sum -7 are [-9, 4, -2], [-4, -3] and [-7]. [Solution]
+
+98) Contiguous sub array with maximum sum
+
+Write a Java program which takes an integer array as input and prints contiguous sub array with maximum sum. For example, if {2, -3, 7, -4, 2, 5, -8, 6, -1} is the given array then contiguous sub array with maximum sum is {7, -4, 2, 5} and its sum is 10. [Solution]
+
+99) Java program to find smallest and second smallest element in an integer array. [Solution]
+
+100) Disarium Number Program In Java
+
+Write a Java program which checks whether given number is Disarium number or not. A number is said to be Disarium if it is equal to sum of its digits raised to the power of their respective position in the number. [Solution]
+
+101) Java program to print all sub strings of a string. [Solution]
+
+102) How to sort HashMap by keys in Java 8? [Solution]
+
+103) How to sort HashMap by values in Java 8? [Solution]
+
+104) How to merge two maps with same keys in Java 8? [Solution]
+
+105) How to merge two sorted arrays in Java? [Solution]
+
+106) How to merge two unsorted arrays in sorted order in Java? [Solution]
+
+107) How to merge two sorted or unsorted arrays into single sorted array without duplicates in Java? [Solution]
+
+108) How to sort array elements by frequency in Java? [Solution]
+
+109) Java program to find common elements in all rows of a matrix. [Solution]
+
+110) Java program to print common characters between two strings in alphabetical order. [Solution]
+
+111) Most repetitive character in a string
+
+Write a Java program to find most repetitive character or maximum occurring character in the given string. For example, if “Java Concept Of The Day” is the input string then ‘a’ is the maximum occurring character which occurred 3 times in the string. [Solution]
+
+112) Minimum absolute difference program
+
+You are given an unsorted array of integers, write a Java program to find the minimum absolute difference between any two elements of the given array. [Solution]
+
+113) Pronic number program in Java
+
+Write a Java program to check whether the given number is pronic or not. Pronic number is a number which is the product of two consecutive integers i.e n(n+1). [Solution]
+
+114) Odd and even numbers by two threads in Java
+
+Write a Java program where two threads print odd and even numbers in sync. That means, one thread should print only the odd numbers and another thread should print only the even numbers. But, both threads should communicate with each other so that numbers should be printed in natural order. [Solution]
+
+115) Bubble Sort Algorithm In Java [Solution]
+
+Keep checking this page for more Java interview programs and Java programming coding interview questions.
